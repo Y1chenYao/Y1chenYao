@@ -7,4 +7,4 @@ Things I have been doing:
 - :paintbrush: Procreate, part-time at the Johnson Museum of Arts
 - :musical_keyboard: classical piano pieces
 
-> Note: The account only holds limited repo that I've been worked on, since most projects/schoolwork are on the Cornell Enterprise account (not open to the public sadly).
+> Note: The account only holds limited repo that I've been working on, since most projects/schoolwork are on the Cornell Enterprise account (not open to the public sadly).
