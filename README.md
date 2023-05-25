@@ -1,5 +1,5 @@
 ### This is Yichen :herb:
-A rising Junior majoring in CS @ Cornell and developer @ Hack4Impact :earth_asia:. 
+A rising junior majoring in CS @ Cornell and developer @ Hack4Impact :earth_asia:. 
 
 Things I am passionate about:
 - :keyboard: MERN full-stack, iOS appdev
