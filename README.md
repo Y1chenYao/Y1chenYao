@@ -5,4 +5,4 @@ Things I am passionate about:
 - :keyboard: fullstack, Dev Ops, iOS appdev
 - :movie_camera: content creation (final cut pro x), game strategizing/analysis
 - :musical_keyboard: classical piano pieces, electronic music, vocal fry/false chord
-- :paintbrush: digital drawing (procreate), UI design
+- :paintbrush: digital drawing (procreate), graphic design
