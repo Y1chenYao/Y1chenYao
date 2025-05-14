@@ -1,12 +1,9 @@
 ### This is Yichen 🌿
 
-I'm a recent graduate and current MEng student at Cornell.
-
 <pre>
 🎥 Content Creation • Final Cut Pro X • Game Strategizing
 🎹 Music • Classical Piano • Music Composition • GarageBand • Metalcore
 🎨 Art • Digital Drawing • Procreate
-💻 Coding • Full Stack • iOS App Dev • Kubernetes • Infra Solution
 🚀 Favorite Setup • Linux VM • VSCode • Python • everything in dark mode
 </pre>
 
